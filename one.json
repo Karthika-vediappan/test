@@ -1,6 +1,7 @@
 [
     {
         "animal" : "king",
-        "name" : "Lion"
+        "name" : "Lion",
+        "food" : "non-veg"
     }
 ]
